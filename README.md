@@ -1,6 +1,6 @@
 # Hi, I'm Thiago Oliveira
 
-I'm a Software Engineer based in Manchester, UK. With over 6 years of experience, I have developed and maintained web and mobile applications using React, React Native, Next.js.
+I'm a Software Engineer based in Manchester, UK. With over 6 years of experience, I have developed and maintained web and mobile applications using React, React Native.
 
 - 🔭 I’m currently working for Interactive Investor
 - 🔥 I'm currently volunteering at https://www.samaritans-purse.org.uk/what-we-do/operation-christmas-child
