@@ -10,7 +10,6 @@ I'm a Software Engineer based in Manchester, UK. With over 6 years of experience
 - TypeScript
 - React,
 - React Native
-- Node.js,
 
 ## 📫 Connect with me
 - Email: toliveirat@icloud.com
